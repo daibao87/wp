@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>林育民的自我介紹</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f0f0f0;
+      text-align: center;
+    }
+    .container {
+      max-width: 600px;
+      margin: 50px auto;
+      padding: 20px;
+      background-color: #fff;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    h1 {
+      color: #333;
+    }
+    p {
+      color: #666;
+    }
+    .interests {
+      margin-top: 30px;
+    }
+  </style>
+</head>
+<body>
+<div class="container">
+  <h1>嗨，我是林育民</h1>
+  <p>我是一個學生，很高興你來到我的自我介紹網頁！</p>
+  <p>我最大的興趣是玩遊戲，這不僅是娛樂，也是我放鬆身心的一種方式。</p>
+  <div class="interests">
+    <h2>我的興趣：</h2>
+    <ul>
+      <li>玩遊戲</li>
+      <li>閱讀</li>
+      <li>旅行</li>
+    </ul>
+  </div>
+</div>
+</body>
+</html>
